@@ -1,0 +1,38 @@
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+snowflake-connector-python>=3.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Statistical Analysis
+scipy>=1.10.0
+statsmodels>=0.14.0
+scikit-learn>=1.2.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.22.0
+notebook>=6.5.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.65.0
+
+# Testing
+pytest>=7.3.0
+pytest-cov>=4.1.0
+
+# Code Quality
+black>=23.3.0
+flake8>=6.0.0
+pylint>=2.17.0

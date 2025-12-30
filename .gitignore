@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+*.xlsx
+*.parquet
+
+# Keep sample data
+!data/sample/
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Credentials
+credentials.json
+*.pem
+*.key
