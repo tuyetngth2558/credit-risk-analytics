@@ -1,5 +1,15 @@
 # Credit Risk Analytics - Interactive Dashboard
 
+## 🌐 LIVE DEMO (Deploy to Cloud)
+
+**Want to see it in action?** Deploy this dashboard to Streamlit Cloud in 5 minutes!
+
+👉 **[Follow Deployment Guide](DEPLOY_TO_CLOUD.md)**
+
+Your dashboard will be live at: `https://your-username-credit-risk-analytics.streamlit.app`
+
+---
+
 ## 🎯 Overview
 
 Interactive Streamlit dashboard for credit risk analytics, portfolio monitoring, and decision intelligence.
